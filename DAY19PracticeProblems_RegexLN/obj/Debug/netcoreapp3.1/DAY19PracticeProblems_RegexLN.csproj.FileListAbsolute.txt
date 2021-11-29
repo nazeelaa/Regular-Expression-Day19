@@ -1,0 +1,13 @@
+E:\vs\DAY19PracticeProblems_RegexLN\bin\Debug\netcoreapp3.1\DAY19PracticeProblems_RegexLN.exe
+E:\vs\DAY19PracticeProblems_RegexLN\bin\Debug\netcoreapp3.1\DAY19PracticeProblems_RegexLN.deps.json
+E:\vs\DAY19PracticeProblems_RegexLN\bin\Debug\netcoreapp3.1\DAY19PracticeProblems_RegexLN.runtimeconfig.json
+E:\vs\DAY19PracticeProblems_RegexLN\bin\Debug\netcoreapp3.1\DAY19PracticeProblems_RegexLN.runtimeconfig.dev.json
+E:\vs\DAY19PracticeProblems_RegexLN\bin\Debug\netcoreapp3.1\DAY19PracticeProblems_RegexLN.dll
+E:\vs\DAY19PracticeProblems_RegexLN\bin\Debug\netcoreapp3.1\DAY19PracticeProblems_RegexLN.pdb
+E:\vs\DAY19PracticeProblems_RegexLN\obj\Debug\netcoreapp3.1\DAY19PracticeProblems_RegexLN.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\DAY19PracticeProblems_RegexLN\obj\Debug\netcoreapp3.1\DAY19PracticeProblems_RegexLN.AssemblyInfoInputs.cache
+E:\vs\DAY19PracticeProblems_RegexLN\obj\Debug\netcoreapp3.1\DAY19PracticeProblems_RegexLN.AssemblyInfo.cs
+E:\vs\DAY19PracticeProblems_RegexLN\obj\Debug\netcoreapp3.1\DAY19PracticeProblems_RegexLN.csproj.CoreCompileInputs.cache
+E:\vs\DAY19PracticeProblems_RegexLN\obj\Debug\netcoreapp3.1\DAY19PracticeProblems_RegexLN.dll
+E:\vs\DAY19PracticeProblems_RegexLN\obj\Debug\netcoreapp3.1\DAY19PracticeProblems_RegexLN.pdb
+E:\vs\DAY19PracticeProblems_RegexLN\obj\Debug\netcoreapp3.1\DAY19PracticeProblems_RegexLN.genruntimeconfig.cache
