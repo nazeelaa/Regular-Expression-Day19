@@ -1,0 +1,14 @@
+E:\vs\Day19PracticeProblems_RegexPP1\bin\Debug\netcoreapp3.1\Day19PracticeProblems_RegexPP1.exe
+E:\vs\Day19PracticeProblems_RegexPP1\bin\Debug\netcoreapp3.1\Day19PracticeProblems_RegexPP1.deps.json
+E:\vs\Day19PracticeProblems_RegexPP1\bin\Debug\netcoreapp3.1\Day19PracticeProblems_RegexPP1.runtimeconfig.json
+E:\vs\Day19PracticeProblems_RegexPP1\bin\Debug\netcoreapp3.1\Day19PracticeProblems_RegexPP1.runtimeconfig.dev.json
+E:\vs\Day19PracticeProblems_RegexPP1\bin\Debug\netcoreapp3.1\Day19PracticeProblems_RegexPP1.dll
+E:\vs\Day19PracticeProblems_RegexPP1\bin\Debug\netcoreapp3.1\Day19PracticeProblems_RegexPP1.pdb
+E:\vs\Day19PracticeProblems_RegexPP1\obj\Debug\netcoreapp3.1\Day19PracticeProblems_RegexPP1.csproj.AssemblyReference.cache
+E:\vs\Day19PracticeProblems_RegexPP1\obj\Debug\netcoreapp3.1\Day19PracticeProblems_RegexPP1.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\Day19PracticeProblems_RegexPP1\obj\Debug\netcoreapp3.1\Day19PracticeProblems_RegexPP1.AssemblyInfoInputs.cache
+E:\vs\Day19PracticeProblems_RegexPP1\obj\Debug\netcoreapp3.1\Day19PracticeProblems_RegexPP1.AssemblyInfo.cs
+E:\vs\Day19PracticeProblems_RegexPP1\obj\Debug\netcoreapp3.1\Day19PracticeProblems_RegexPP1.csproj.CoreCompileInputs.cache
+E:\vs\Day19PracticeProblems_RegexPP1\obj\Debug\netcoreapp3.1\Day19PracticeProblems_RegexPP1.dll
+E:\vs\Day19PracticeProblems_RegexPP1\obj\Debug\netcoreapp3.1\Day19PracticeProblems_RegexPP1.pdb
+E:\vs\Day19PracticeProblems_RegexPP1\obj\Debug\netcoreapp3.1\Day19PracticeProblems_RegexPP1.genruntimeconfig.cache
