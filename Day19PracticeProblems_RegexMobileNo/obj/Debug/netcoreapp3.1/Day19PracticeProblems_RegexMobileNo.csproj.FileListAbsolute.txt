@@ -1,0 +1,5 @@
+E:\vs\Day19PracticeProblems_RegexMobileNo\obj\Debug\netcoreapp3.1\Day19PracticeProblems_RegexMobileNo.csproj.AssemblyReference.cache
+E:\vs\Day19PracticeProblems_RegexMobileNo\obj\Debug\netcoreapp3.1\Day19PracticeProblems_RegexMobileNo.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\Day19PracticeProblems_RegexMobileNo\obj\Debug\netcoreapp3.1\Day19PracticeProblems_RegexMobileNo.AssemblyInfoInputs.cache
+E:\vs\Day19PracticeProblems_RegexMobileNo\obj\Debug\netcoreapp3.1\Day19PracticeProblems_RegexMobileNo.AssemblyInfo.cs
+E:\vs\Day19PracticeProblems_RegexMobileNo\obj\Debug\netcoreapp3.1\Day19PracticeProblems_RegexMobileNo.csproj.CoreCompileInputs.cache
