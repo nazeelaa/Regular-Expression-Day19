@@ -1,0 +1,13 @@
+E:\vs\Day19PracticeProblems_RegexUC6\bin\Debug\netcoreapp3.1\Day19PracticeProblems_RegexUC6.exe
+E:\vs\Day19PracticeProblems_RegexUC6\bin\Debug\netcoreapp3.1\Day19PracticeProblems_RegexUC6.deps.json
+E:\vs\Day19PracticeProblems_RegexUC6\bin\Debug\netcoreapp3.1\Day19PracticeProblems_RegexUC6.runtimeconfig.json
+E:\vs\Day19PracticeProblems_RegexUC6\bin\Debug\netcoreapp3.1\Day19PracticeProblems_RegexUC6.runtimeconfig.dev.json
+E:\vs\Day19PracticeProblems_RegexUC6\bin\Debug\netcoreapp3.1\Day19PracticeProblems_RegexUC6.dll
+E:\vs\Day19PracticeProblems_RegexUC6\bin\Debug\netcoreapp3.1\Day19PracticeProblems_RegexUC6.pdb
+E:\vs\Day19PracticeProblems_RegexUC6\obj\Debug\netcoreapp3.1\Day19PracticeProblems_RegexUC6.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\Day19PracticeProblems_RegexUC6\obj\Debug\netcoreapp3.1\Day19PracticeProblems_RegexUC6.AssemblyInfoInputs.cache
+E:\vs\Day19PracticeProblems_RegexUC6\obj\Debug\netcoreapp3.1\Day19PracticeProblems_RegexUC6.AssemblyInfo.cs
+E:\vs\Day19PracticeProblems_RegexUC6\obj\Debug\netcoreapp3.1\Day19PracticeProblems_RegexUC6.csproj.CoreCompileInputs.cache
+E:\vs\Day19PracticeProblems_RegexUC6\obj\Debug\netcoreapp3.1\Day19PracticeProblems_RegexUC6.dll
+E:\vs\Day19PracticeProblems_RegexUC6\obj\Debug\netcoreapp3.1\Day19PracticeProblems_RegexUC6.pdb
+E:\vs\Day19PracticeProblems_RegexUC6\obj\Debug\netcoreapp3.1\Day19PracticeProblems_RegexUC6.genruntimeconfig.cache
