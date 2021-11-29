@@ -1,0 +1,13 @@
+E:\vs\Day19PracticeProblem_RegexEmail\obj\Debug\netcoreapp3.1\Day19PracticeProblem_RegexEmail.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\Day19PracticeProblem_RegexEmail\obj\Debug\netcoreapp3.1\Day19PracticeProblem_RegexEmail.AssemblyInfoInputs.cache
+E:\vs\Day19PracticeProblem_RegexEmail\obj\Debug\netcoreapp3.1\Day19PracticeProblem_RegexEmail.AssemblyInfo.cs
+E:\vs\Day19PracticeProblem_RegexEmail\obj\Debug\netcoreapp3.1\Day19PracticeProblem_RegexEmail.csproj.CoreCompileInputs.cache
+E:\vs\Day19PracticeProblem_RegexEmail\bin\Debug\netcoreapp3.1\Day19PracticeProblem_RegexEmail.exe
+E:\vs\Day19PracticeProblem_RegexEmail\bin\Debug\netcoreapp3.1\Day19PracticeProblem_RegexEmail.deps.json
+E:\vs\Day19PracticeProblem_RegexEmail\bin\Debug\netcoreapp3.1\Day19PracticeProblem_RegexEmail.runtimeconfig.json
+E:\vs\Day19PracticeProblem_RegexEmail\bin\Debug\netcoreapp3.1\Day19PracticeProblem_RegexEmail.runtimeconfig.dev.json
+E:\vs\Day19PracticeProblem_RegexEmail\bin\Debug\netcoreapp3.1\Day19PracticeProblem_RegexEmail.dll
+E:\vs\Day19PracticeProblem_RegexEmail\bin\Debug\netcoreapp3.1\Day19PracticeProblem_RegexEmail.pdb
+E:\vs\Day19PracticeProblem_RegexEmail\obj\Debug\netcoreapp3.1\Day19PracticeProblem_RegexEmail.dll
+E:\vs\Day19PracticeProblem_RegexEmail\obj\Debug\netcoreapp3.1\Day19PracticeProblem_RegexEmail.pdb
+E:\vs\Day19PracticeProblem_RegexEmail\obj\Debug\netcoreapp3.1\Day19PracticeProblem_RegexEmail.genruntimeconfig.cache

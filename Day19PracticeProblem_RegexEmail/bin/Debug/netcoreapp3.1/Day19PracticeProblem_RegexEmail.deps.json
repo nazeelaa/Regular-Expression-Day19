@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Day19PracticeProblem_RegexEmail/1.0.0": {
+        "runtime": {
+          "Day19PracticeProblem_RegexEmail.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day19PracticeProblem_RegexEmail/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
